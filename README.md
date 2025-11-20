@@ -1,4 +1,4 @@
-# 🔍 Sistema de Reconhecimento Facial com DeepFace no Google Colab
+# 🔍 Sistema de Reconhecimento Facial com DeepFace no Google Colab.
 
 Este projeto tem como objetivo realizar **reconhecimento facial em imagens com múltiplas pessoas**, utilizando a biblioteca [DeepFace](https://github.com/serengil/deepface). Ele foi desenvolvido e testado diretamente no Google Colab, com foco em **facilidade de uso e precisão** no reconhecimento.
 
